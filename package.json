@@ -1,0 +1,17 @@
+{
+  "name": "fullstack-midudev",
+  "version": "1.0.0",
+  "description": "bootcamp fullstack with midudev",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "bootcamp",
+    "nodejs"
+  ],
+  "author": "Joan Roca Hormaza <remnyachizot2015@gmail.com>",
+  "license": "MIT"
+}
